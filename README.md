@@ -1,3 +1,4 @@
+![logo](https://github.com/namelesskid36/namelesskid36/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sudip Awasthi</h1>
 <h3 align="center">Coding my way out of a paper bag 🛍️🖥️</h3>
 
