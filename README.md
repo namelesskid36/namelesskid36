@@ -1,5 +1,5 @@
 ![logo](https://github.com/namelesskid36/namelesskid36/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Sudip Awasthi</h1>
+<h1 align="center">Hi 👋, I'm Sudip Awasthi AKA professor</h1>
 <h3 align="center">Coding my way out of a paper bag 🛍️🖥️</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
