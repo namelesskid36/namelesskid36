@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **dipsu1873@gmail.com**
 
-- ⚡ Fun fact **Ris uutdo is my love language.**
+- ⚡ Fun fact **👍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
